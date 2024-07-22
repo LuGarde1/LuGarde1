@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuGarde1
+- 👋 Hi, I’m @Lukas Gardeweg
 - 👀 I’m interested in Sport Science
 - 🌱 I’m currently learning R and Python 
 - 💞️ I’m looking to collaborate on ...
